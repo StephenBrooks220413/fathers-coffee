@@ -88,7 +88,7 @@
         <!-- Github -->
         <a
           class="btn btn-outline-light btn-floating m-1"
-          href="#!"
+          href="https://github.com/StephenBrooks220413/fathers-coffee.git"
           role="button"
           ><i class="fab fa-github"></i
         ></a>

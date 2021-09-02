@@ -30,7 +30,7 @@
             type="checkbox"
             value=""
             id="form5Example3"
-            checked
+            unchecked
           />
           <label class="form-check-label" for="form5Example3">
             I have read and agree to the terms

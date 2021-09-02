@@ -46,11 +46,12 @@
         <h1>All Hands In</h1>
         <hr />
         <p class="lead">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam,
-          atque veritatis ipsa inventore ipsum doloribus sit aspernatur
-          mollitia, maxime expedita id sapiente aut beatae blanditiis
-          repudiandae sed totam molestias! Quis.
+          No matter where you are or how you got there, there is 
+          always someone not vary far. A lot of people are willing 
+          to help or volunteer to provide assistance. Become a coach 
+          or inquire about one today.
         </p>
+        <a href="#" class="btn btn-outline-dark">INQUIRE</a>
       </div>
     </div>
   </div>
@@ -81,8 +82,5 @@ ul {
 li {
   display: inline-block;
   margin: 0 10px;
-}
-a {
-  color: #42b983;
 }
 </style>
