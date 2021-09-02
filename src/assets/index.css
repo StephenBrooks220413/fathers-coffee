@@ -1,0 +1,32 @@
+#nav2 {
+    display: none;
+}
+
+.top-intro { 
+    background: url(dads.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding-top: 190px;
+    padding-bottom: 190px;
+}
+
+.intrologo {
+    opacity: 0.6;
+}
+
+.icon {
+    font-size: 3em;
+}
+
+@media(max-width: 768px){
+    #nav1 {
+        display: none;
+    }
+    #nav2 {
+        display: block;
+    }
+}
